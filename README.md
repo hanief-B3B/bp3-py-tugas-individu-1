@@ -1,2 +1,2 @@
 # bp3-py-tugas-individu-1
-![Screenshot](![Screenshot](https://cdn.discordapp.com/attachments/1335953538785742869/1358007364703354890/Screenshot_From_2025-04-05_10-15-44.png?ex=67f2466a&is=67f0f4ea&hm=61d1d85ff3f463d53c99ba8cce9052578df678b27682902b21118e144d67d2d2&))
+![Screenshot](https://cdn.discordapp.com/attachments/1335953538785742869/1358009065489436795/image.png?ex=67f247ff&is=67f0f67f&hm=d27a36c274ff00e6d0e7d9f3f779d367c57e6346d1a808d0cf298fcd1bb44c24&)
